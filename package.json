@@ -1,0 +1,23 @@
+{
+  "name": "geojson-directions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uitgewis/geojson-directions.git"
+  },
+  "author": "Ferdi Schmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uitgewis/geojson-directions/issues"
+  },
+  "homepage": "https://github.com/uitgewis/geojson-directions#readme",
+  "dependencies": {
+    "polyline": "^0.2.0",
+    "request": "^2.73.0"
+  }
+}
